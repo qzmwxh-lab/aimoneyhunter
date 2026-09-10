@@ -5,6 +5,16 @@
     <a href="README.md">简体中文</a> | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
   </p>
 
+> 本 Fork 已升级为“AI 赚钱路线图”网站：包含副业路线测评、可搜索项目库、7 天启动计划和付费咨询入口。
+
+## 运行网站
+
+```bash
+npm run dev
+```
+
+静态生产文件可通过 `npm run build` 生成到 `dist/`。咨询按钮默认跳转到本仓库的新 Issue 页面；正式运营时，可在 `index.html` 中替换成你的微信、企微表单或支付页面。
+
 # 关于这个仓库的故事
 
 这个仓库目前已经作废，是[@Yangyi](https://twitter.com/intent/follow?screen_name=yangyixxxx) 在23年末整理创建的
